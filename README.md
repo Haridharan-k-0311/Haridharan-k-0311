@@ -36,7 +36,7 @@ I'm currently a 3rd-year B.Tech student specializing in Artificial Intelligence 
 - Innovative research and development projects.
 
 ## 📫 How to Reach Me
-- [Email](Harih6812@gmail.com)
+- [Email](mailto:Harih6812@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/hari-dharan-k-6903a8293/)
 
 ## 😄 Fun Fact
