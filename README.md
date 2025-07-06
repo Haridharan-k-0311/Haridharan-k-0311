@@ -1,45 +1,71 @@
-<!---
-- 👋 Hi, I’m @Haridharan-k-0311
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---->
+# 👋 Hi there! I'm Haridharan K
 
-<!---
-Haridharan-k-0311/Haridharan-k-0311 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-# Hi there! I'm Haridharan 👋
+🎓 Final Year B.Tech (Hons.) CSE Student | Specialization in AI & ML  
+💻 Full Stack Developer | Python Enthusiast | Open Source Explorer  
 
-## About Me
-I'm currently a 3rd-year B.Tech student specializing in Artificial Intelligence and Machine Learning at PMIST, Vallam, Thanjavur. I have a strong foundation in various areas of computer science and programming.
+---
 
-## 🚀 Skills and Experience
-- **AI & ML:** Hands-on experience with basic AI and ML algorithms.
-- **Data Structures & Algorithms:** Knowledgeable in fundamental concepts.
-- **Full Stack Web Development:** Proficient in MERN stack (MongoDB, Express.js, React, Node.js).
-- **Programming Languages:** 
-  - Basic knowledge of C, C++, Java.
-  - Advanced experience with Python, including libraries such as Matplotlib, NumPy, Pandas, and Tkinter.
+## 🧠 About Me
+I'm a passionate Computer Science undergraduate from PMIST, Thanjavur, with a strong interest in Artificial Intelligence, Machine Learning, and Full Stack Web Development. I love turning ideas into working projects and solving real-world problems using code.
+
+---
+
+## 🚀 Skills & Technologies
+
+### 🔹 Programming Languages  
+- **Python** (NumPy, Pandas, Matplotlib, Tkinter)  
+- JavaScript, R
+
+### 🔹 Web Development  
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap, React.js  
+- **Backend:** Node.js, Express.js  
+- **Databases:** MongoDB, MySQL, SQLite  
+
+### 🔹 Other Tools & Concepts  
+- Git & GitHub  
+- Jupyter Notebook, VS Code, PyCharm  
+- Data Structures & Algorithms  
+- Basic IoT Concepts
+
+---
+
+## 📚 Certifications & Highlights
+
+- 🧠 100 Days of Code: The Complete Python Pro Bootcamp – Angela Yu  
+- 💡 Microsoft: Fundamentals of Generative AI  
+- 🔗 MongoDB: Data Modeling Basics  
+- 💻 JavaScript Crash Course – Udemy  
+- 🏫 Workshops at **IIT Madras** and **NIT Trichy** on AI/ML, UI/UX, Competitive Programming  
+- 🏅 NCC ‘C’ Certificate Holder  
+
+---
 
 ## 🌱 Currently Learning
-- Advanced techniques in AI and ML.
-- Cloud computing and deployment strategies.
-- Enhancements in web development frameworks and tools.
 
-## 💞️ Looking to Collaborate On
-- Open-source AI and ML projects.
-- Full stack web development initiatives.
-- Innovative research and development projects.
+- Deep Learning models and real-world ML deployment  
+- API integrations and DevOps basics  
+- Advanced React and cloud backend connectivity  
 
-## 📫 How to Reach Me
-- [Email](mailto:Harih6812@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/hari-dharan-k-6903a8293/)
+---
 
-## 😄 Fun Fact
-- I enjoy creating visualizations and building applications that make complex data more understandable and accessible!
+## 🤝 Let's Collaborate
 
-Feel free to connect with me or check out my repositories to see my work!
+I'm open to contributing to:
+- AI/ML based open-source projects  
+- Full-stack applications with real-world impact  
+- Research and innovation in intelligent systems  
+
+---
+
+## 📫 Reach Me
+
+- 📧 [haridharan.k@example.com](mailto:haridharan.k@example.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/HARIDHARAN-K)  
+
+---
+
+## ⚡ Fun Fact
+
+I love transforming complex concepts into clean code and building tools that are simple, smart, and user-friendly. Also a fast typist (49 WPM ⌨️)!
+
+---
