@@ -59,7 +59,7 @@ I'm open to contributing to:
 
 ## 📫 Reach Me
 
-- 📧 [haridharan.k@example.com](mailto:haridharan.k@example.com)  
+- 📧 [haridharan.k@example.com](mailto:harih6812@gmail.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/HARIDHARAN-K)  
 
 ---
