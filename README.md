@@ -94,19 +94,6 @@ Periyar Maniammai Institute of Science & Technology
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=haridharan0311&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=haridharan0311&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haridharan0311&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 🌐 Connect With Me
 <p align="left">
 <a href="https://github.com/haridharan-k-0311"><img src="https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge&logoColor=white"/></a>
