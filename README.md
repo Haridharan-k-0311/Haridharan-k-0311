@@ -1,83 +1,70 @@
-<!-- Top Header -->
 <h1 align="center">Hi 👋, I'm Haridharan K</h1>
 <h3 align="center">Aspiring Software Developer | Python Developer | ML & Full-Stack Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=haridharan-k-0311&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+---
+
+## 🌟 About Me
+🎓 B.Tech CSE (AI & ML) student passionate about building real-world applications using  
+**Python, Flask, Machine Learning, and Web Development**.
+
+💡 I love solving problems, learning new technologies, and working on innovative projects—  
+from **Deep Learning models** to **Full-Stack web applications**.
+
+🔭 Currently working on:  
+- 🩺 **AI-Powered Diabetic Retinopathy Screening Platform with XAI**  
+- 🌐 Full-Stack projects using **Flask + SQLAlchemy + REST APIs**
+
+🌱 Currently learning:  
+- MERN Stack  
+- Advanced Machine Learning & MLOps  
+- Cloud Deployments (AWS / Render)
 
 ---
 
-## 🚀 About Me  
-- 🎓 B.Tech CSE (AI & ML) student  
-- 💻 Passionate about **Software Development, Python, Machine Learning, and Web Development**  
-- 🌱 Currently learning **MERN Stack**, **Advanced ML**, and **Cloud Deployment (AWS/Render)**  
-- 🔥 I love working on impactful real-world projects  
-- 🚀 Looking for **Software Developer | Python Developer | ML Engineer | Full-Stack Developer** roles  
-
----
-
-## 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=haridharan-k-0311&theme=onedark&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
 ### **Languages**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-</p>
+- Python | JavaScript | C
 
 ### **Web Development**
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-</p>
+- HTML | CSS | Flask | REST APIs | WordPress
 
-### **Machine Learning & AI**
-<p align="left">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white" />
-</p>
+### **Machine Learning / AI**
+- NumPy | Pandas | Scikit-learn | TensorFlow | OpenCV | Matplotlib
 
 ### **Databases**
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
+- MySQL | SQLite | SQLAlchemy
 
-### **Tools & Platforms**
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-</p>
+### **Tools**
+- Git | GitHub | VS Code | PyCharm | Jupyter/Colab | Power BI  
+- Selenium | BeautifulSoup
 
 ---
 
 ## 🔥 Featured Projects
 
-### 🩺 **AI-Powered Diabetic Retinopathy Screening & XAI Platform**  
-- Deep-learning model for **5-class grading** using CNN + Transformers  
-- Grad-CAM for clinical explainability  
-- Full web dashboard for doctors & admins  
-📌 *Repo link coming soon*
+### 🩺 **AI-Powered Diabetic Retinopathy Screening & XAI Platform**
+- 5-class DR classification using **CNN + Transformers**
+- Explainability using **Grad-CAM**
+- Clinical web dashboard for Admin, Doctors, and Managers  
+👉 *Coming soon to GitHub*
 
 ---
 
-### 📝 **Blogs Website with Authentication (Flask)**  
-- CRUD blogs + secure user login  
-- SQLAlchemy ORM + REST APIs  
-- Responsive UI  
-📌 *Add repo link here once uploaded*
+### 📝 **Blogs Website with User Authentication (Flask)**
+- Secure login, registration & sessions  
+- CRUD blog management  
+- Responsive UI using HTML/CSS  
+🔗 *Repo:* _upload to GitHub and I’ll add the link here_
+
+---
+
+## 🏆 Certifications & Achievements
+- 🥇 **NPTEL – The Joy of Computing using Python (Elite, 90%)**
+- 🎯 **TCS NQT – IT Score: 2338.88/3000 (77.96%) | Python: 88.41%**
+- 🤖 AI & ML Workshop – IIT Madras  
+- 🧠 Competitive Programming Workshop – NIT Trichy  
+- 🐍 Python 100 Days of Code – Angela Yu  
 
 ---
 
@@ -90,31 +77,13 @@
 
 ---
 
-## ⚡ Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haridharan-k-0311&theme=tokyo-night" />
-</p>
-
----
-
-## 🐍 Snake Contribution Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/haridharan-k-0311/haridharan-k-0311/output/github-contribution-grid-snake.svg" />
-</p>
-
-*(If the snake doesn’t appear, I will set up the GitHub Actions file for you.)*
-
----
-
-## 🤝 Connect With Me  
+## 🤝 Connect With Me
 <p align="left">
-<a href="https://github.com/haridharan-k-0311"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://linkedin.com/in/haridharan-k-0311"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/haridharan-k-0311" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://linkedin.com/in/haridharan-k-0311" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
 
-<h3 align="center">⭐ If you like my work, consider giving my repositories a star!</h3>
-<h3 align="center">🚀 Open to collaborations & exciting opportunities</h3>
+⭐ **If you like my work, feel free to star the repositories!**  
+🚀 Always open to collaborations, internship opportunities, and exciting tech discussions!
