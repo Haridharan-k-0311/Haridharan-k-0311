@@ -109,7 +109,7 @@ Periyar Maniammai Institute of Science & Technology
 
 ## 🌐 Connect With Me
 <p align="left">
-<a href="https://github.com/haridharan0311"><img src="https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge&logoColor=white"/></a>
+<a href="https://github.com/haridharan-k-0311"><img src="https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge&logoColor=white"/></a>
 <a href="https://linkedin.com/in/haridharan-k"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white"/></a>
 </p>
 
