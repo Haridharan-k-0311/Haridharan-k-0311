@@ -1,105 +1,169 @@
 <h1 align="center">Hi 👋, I'm Haridharan K</h1>
-<h3 align="center">B.Tech CSE (AI & ML) | AI/ML Developer | Full-Stack & Data Science Enthusiast</h3>
+<h3 align="center">B.Tech CSE (AI & ML) | AI/ML Engineer | Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=haridharan0311&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=haridharan-k-0311&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
 
 ## 🚀 About Me
-I'm **Haridharan**, an AI & ML specialization student passionate about building impactful solutions using  
-**Machine Learning, Deep Learning, Data Science, and Full-Stack Development**.
 
-I enjoy transforming real-world problems into working systems — from **web apps** to **AI-powered healthcare tools**.
+I'm a Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning, with strong interests in both AI-driven systems and Full Stack Development.
 
-- 🔭 Currently working on **AI-Powered Diabetic Retinopathy Screening & XAI Clinical Platform**
-- 🌱 Learning **Advanced Deep Learning, MERN, and Explainable AI**
-- 👯 Looking to collaborate on **ML/DL research, full-stack apps, and AI-integrated systems**
-- 💬 Ask me about **Python, ML workflows, Flask, WordPress, SQL, Data Visualization**
-- 📫 Reach me at **harih6812@gmail.com**
+I enjoy building end-to-end applications that combine intelligent decision-making, scalable backend architectures, and modern web technologies.
 
----
-
-## 🧠 Skills & Technologies
-
-### **Programming Languages**
-- C, Python, JavaScript
-
-### **Web Development**
-- HTML, CSS, Flask, REST APIs
-
-### **Machine Learning / Deep Learning**
-- NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, OpenCV
-
-### **Databases**
-- MySQL, SQLite, SQLAlchemy
-
-### **Automation / Tools**
-- Selenium, BeautifulSoup  
-- Git, GitHub  
-- VS Code, PyCharm, Jupyter/Colab/Kaggle  
-- Power BI
+- 🎓 B.Tech CSE (AI & ML) at Periyar Maniammai Institute of Science & Technology
+- 🔭 Currently building AI-powered healthcare solutions and full-stack web applications
+- 🌱 Learning Advanced Deep Learning, Computer Vision, Django, React, and System Design
+- 👯 Open to collaborating on AI/ML, Full Stack, Healthcare AI, and Open Source projects
+- 💬 Ask me about Python, Machine Learning, Django, React, Flask, REST APIs, and Databases
+- 📫 Reach me at: **harih6812@gmail.com**
 
 ---
 
-## 🔥 Projects
+## 🛠️ Tech Stack
 
-### 🩺 **AI-Powered Diabetic Retinopathy Screening & XAI Clinical Platform** *(Sep 2025 – Ongoing)*
-- Built a **5-class DR grading model** using **CNN + Transformer** architectures  
-- Added **Explainable AI** with heatmaps and interpretable lesion-based scoring  
-- Designed a **role-based platform** for Admins, Doctors, and Hospital Managers  
-- End-to-end workflow: Upload → Screen → Interpret → Manage Reports  
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### AI / Machine Learning
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- TensorFlow
+- Scikit-learn
+- NumPy
+- Pandas
+- Data Preprocessing
+- Model Evaluation
+
+### Full Stack Development
+- HTML
+- CSS
+- JavaScript
+- Flask
+- Django
+- Django REST Framework (DRF)
+- React
+- REST APIs
+
+### Databases
+- MySQL
+- SQLite
+- SQLAlchemy
+
+### Tools & Platforms
+- Git & GitHub
+- VS Code
+- Jupyter Notebook
+- Postman
 
 ---
 
-### 📝 **Blogs Website with User Authentication**
-- Full-stack blogging platform using **Flask + SQLAlchemy**
-- Secure **user sign-up/login**, session-based authentication
-- Implemented CRUD for posts, integrated REST APIs, and built responsive UI
+## 🔥 Featured Projects
+
+### 🩺 LGMaeDRNet — DR-Net Clinical Decision Support System
+
+- Developed a healthcare AI platform using Streamlit and SQLite
+- Integrated Swin Transformer + Graph Attention Network for diabetic retinopathy grading
+- Achieved 98.91% accuracy and QWK score of 0.9967
+- Implemented Explainable AI using Grad-CAM and lesion mapping
+- Added role-based access control and automated PDF report generation
+
+### 📊 Healthcare AI Platform — Epidemiological Analytics & Pharmacy Forecasting
+
+- Built a full-stack platform using Django, React, and REST APIs
+- Implemented outbreak detection using anomaly detection techniques
+- Developed drug demand forecasting models for inventory optimization
+- Created scalable backend workflows and real-time analytics dashboards
 
 ---
 
 ## 💼 Experience
 
-### 📌 Data Science Intern — *DLK Software Solutions, Chennai (Jun–Jul 2025)*
-- Worked on **data preprocessing, EDA, ML model building**
-- Implemented predictive models and evaluated performance metrics  
-- Used Python, Pandas, NumPy, Matplotlib, Scikit-learn
+### Full Stack Intern | Tecnospice Technologies
+**Mar 2026 – Apr 2026**
 
-### 📌 Web Development Intern — *MAAC Technologies, Trichy (Jun–Jul 2024)*
-- Front-end development using HTML, CSS, and WordPress  
-- Customized themes, managed page layouts, and optimized UI/UX  
+- Developed full-stack web applications using Django, React, and MySQL
+- Built REST APIs and backend workflows
+- Contributed to AI-powered analytics and forecasting modules
+
+### Web Development Intern | MAAC Technologies, Tiruchirappalli
+**Jun 2024 – Jul 2024**
+
+- Developed responsive web interfaces using HTML, CSS, JavaScript, and Bootstrap
+- Customized WordPress websites and improved UI/UX
+- Assisted in website deployment and maintenance
 
 ---
 
 ## 🎓 Education
-**B.Tech — Computer Science & Engineering (AI & ML)**  
-Periyar Maniammai Institute of Science & Technology  
-📊 **CGPA: 7.95 / 10**
 
-**Higher Secondary (HSC)** – 78.5%  
-**SSLC** – 83%
+### B.Tech Computer Science & Engineering (AI & ML)
+**Periyar Maniammai Institute of Science & Technology**
 
----
+📈 CGPA: **8.1 / 10**
 
-## 🏆 Workshops & Certifications
-- AI & ML Workshop — *IIT Madras* (Techgyan Technologies)  
-- Competitive Programming Workshop — *NIT Trichy (Spider R&D)*  
-- Python Bootcamp (100 Days of Code) — *Angela Yu*  
-- Fundamentals of Generative AI — *Microsoft*  
-- JavaScript Practical Crash Course — *Proper Dot Institute*  
-- International Student Workshop — *Brainovision – Data Science*  
-- TCS iON NQT (IT) — Score: **2338.88/3000 (77.96%)**, 88.41% in Python Programming  
+### Academic Scores
+
+- HSC: 78.5%
+- SSLC: 83%
 
 ---
 
-## 🌐 Connect With Me
-<p align="left">
-<a href="https://github.com/haridharan-k-0311"><img src="https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge&logoColor=white"/></a>
-<a href="https://linkedin.com/in/haridharan-k"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white"/></a>
+## 🏆 Certifications
+
+- The Joy of Computing Using Python — NPTEL
+- TCS iON NQT (IT) — 78%
+- Python Programming Score — 88.41%
+- Fundamentals of Generative AI — Microsoft
+- Python Bootcamp: 100 Days of Code — Angela Yu
+
+---
+
+## 🎯 Workshops & Training
+
+- AI & ML Workshop — IIT Madras
+- Competitive Programming Workshop — NIT Trichy
+- Python Bootcamp — Udemy (Angela Yu)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=haridharan-k-0311&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haridharan-k-0311&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haridharan-k-0311&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-⭐ *Thanks for visiting! Feel free to explore my repositories and connect with me.*
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="mailto:harih6812@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/haridharan-k-0311">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/haridharan-k-0311">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
+
+---
+
+⭐ Thanks for visiting my profile! I'm always interested in AI/ML, Full Stack Development, and innovative software projects.
